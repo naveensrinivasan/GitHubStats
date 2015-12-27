@@ -6,4 +6,9 @@ I used the [githubarchive.org](http://githubarchive.org) and Google [big query](
 
 Here is an example of FSharp Github Org [https://github.com/fsharp/](https://github.com/fsharp/) Stats using the `Script.fsx`.
 
+
+![image](/images/Top10Repos.png)
+
+![image](/images/Top10Contributors.png)
+
 ![image](/images/ContributionsByMonth.png)
